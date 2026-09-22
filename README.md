@@ -1,4 +1,4 @@
-## Customer Churn Predictor
+## Customer Churn Predictor(https://churn-predictor-lemon.vercel.app/)
 
 A small Next.js app for exploring the Telco customer churn model:
 
